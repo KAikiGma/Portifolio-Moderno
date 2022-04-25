@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Heebo' , sans-serif;
+}
+
+header{
+    margin: 0 auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+ul li{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.intro{
+    
+}
+
+.intro h1{
+    color: #21243d;
+    font-size: 44px;
+    font-family: 'heebo';
+}
+
+.intro p{
+    font-size: 16px;
+}
