@@ -53,6 +53,8 @@ nav ul li a {
     float: right;
     border-radius: 50%;
     box-shadow: -5px 10px 0px #EDF7FA;
+    left: 760px;
+    top: 210px;
 }
 
 .dowload {
@@ -107,6 +109,7 @@ nav ul li a {
     justify-content: space-evenly;
     flex-direction: column;
     padding: 0 15px;
+    border-radius: 4px;
 }
 
 .pEsquerda h1 {
@@ -135,6 +138,7 @@ nav ul li a {
     justify-content: space-evenly;
     flex-direction: column;
     padding: 0 15px;
+    border-radius: 4px;
 }
 
 .pDireita h1 {
@@ -152,7 +156,7 @@ nav ul li a {
     font-weight: 400;
 }
 
-.d0{
+.d0 {
     font-size: 22px;
     font-weight: 400;
 }
@@ -226,4 +230,9 @@ footer p {
     display: flex;
     justify-content: center;
     margin: 20px 0 0;
+}
+
+.divisor {
+    color: #E0E0E0;
+    border: 1px solid #E0E0E0;
 }
